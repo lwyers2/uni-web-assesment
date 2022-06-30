@@ -1,0 +1,102 @@
+body {
+	
+	box-sizing: border-box;
+	background-color: rgba(203, 255, 255, 0.185);
+	
+}
+
+.container{ 
+
+    margin-top:50px;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+align-items: center;
+
+
+}
+
+.album-details {
+	width:100%;
+	padding: 25px;
+	margin: 25px;
+	gap: 25px;
+	flex-basis: 100%;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-wrap: wrap;
+    
+}
+
+.album-info {
+	display: flex;
+	text-align: center;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+    border-bottom: solid 2px grey;
+	
+}
+
+ 
+
+.rating-community i, .rating-user i {
+    color:gold;
+	
+    
+}
+
+.favourite i {
+	color: red;
+}
+
+.greyed-rating,.greyed-favourite-owned{
+	color:lightgray;
+}
+
+#login-needed{
+	color:lightgray;
+}
+
+.album-description {
+
+	padding: 25px;
+   
+}
+
+.add-review{
+	margin-bottom:50px;
+}
+.user-reviews{
+
+    width: 80%;
+    border-top: solid grey 2px;
+	display:flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: space-around;
+	padding: 25px;
+}
+
+.all-reviews{
+	width: 100%;
+	display:flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: space-around;
+	padding: 25px;
+}
+
+.card {
+	width: 100%;
+	
+}
+
+#pending{
+	color:grey;
+}
+
+#submit-review, #add-review{
+	border-bottom:solid grey 3px;
+}

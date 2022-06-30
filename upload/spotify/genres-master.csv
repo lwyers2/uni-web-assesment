@@ -1,0 +1,972 @@
+1,Rock
+2,Rock
+3,Rock
+4,Rock
+5,Rock,Pop
+6,Funk/Soul
+7,Rock
+8,Rock
+9,Rock,Blues
+10,Rock
+11,Rock
+12,Jazz
+13,Rock
+14,Rock
+15,Rock,Blues
+16,Rock
+17,Rock
+18,Rock
+19,Jazz,Rock,Blues,Folk World & Country
+20,Funk/Soul,Pop
+21,Rock
+22,Blues
+23,Rock
+24,Funk/Soul
+25,Funk/Soul
+26,Rock
+27,Rock
+28,Rock
+29,Rock
+30,Pop
+31,Rock,Folk,World & Country
+32,Rock
+33,Rock
+34,Rock
+35,Rock
+36,Rock,Pop
+37,Rock
+38,Folk,World & Country
+39,Rock
+40,Rock
+41,Rock
+42,Rock
+43,Rock
+44,Rock
+45,Classical,Stage & Screen
+46,Reggae
+47,Jazz
+48,HipHop
+49,Rock,Blues
+50,Rock,Blues
+51,Rock
+52,Funk/Soul
+53,Rock
+54,Jazz,Funk/Soul
+55,Rock,Blues
+56,Rock
+57,Funk/Soul
+58,Rock,Funk/Soul,Pop
+59,Rock
+60,Rock,Blues
+61,Funk/Soul
+62,Rock
+63,Electronic,Rock
+64,Rock
+65,Rock,Funk/Soul,Pop
+66,Jazz,Rock,Funk/Soul,Folk World & Country
+67,Electronic,Rock
+68,Funk/Soul,Pop
+69,Rock
+70,Rock
+71,Jazz,Rock,Funk/Soul,Pop,Folk World & Country
+72,Funk/Soul,Stage & Screen
+73,Rock
+74,Rock
+75,Funk/Soul
+76,Electronic,Rock,Funk/Soul,Stage & Screen
+77,Rock
+78,Funk/Soul
+79,Rock
+80,Rock
+81,Rock
+82,Rock
+83,Rock
+84,Funk/Soul
+85,Funk/Soul
+86,Rock
+87,Rock
+88,Folk World & Country
+89,Rock,Funk/Soul
+90,Funk/Soul
+91,Rock
+92,Rock
+93,Rock,Reggae
+94,Folk World & Country
+95,Jazz
+96,Rock
+97,Folk World & Country
+98,Rock
+99,Funk/Soul
+100,Rock
+101,Jazz,Pop
+102,Rock,Blues
+103,Jazz
+104,Rock
+105,Funk/Soul,Folk World & Country
+106,Rock
+107,Latin,Funk/Soul
+108,Rock
+109,Rock
+110,Rock
+111,Rock
+112,Rock
+113,Rock
+114,Rock
+115,Rock
+116,Rock
+117,Rock
+118,HipHop
+119,Funk/Soul,Blues
+120,Rock
+121,Funk/Soul
+122,Reggae,Pop,Folk World & Country,Stage & Screen
+123,HipHop
+124,Rock
+125,Rock,Blues
+126,Reggae
+127,Rock
+128,Rock
+129,Electronic,Rock
+130,Rock
+131,Rock
+132,Electronic,Stage & Screen
+133,Rock
+134,HipHop
+135,Rock
+136,Rock
+137,Rock
+138,HipHop
+139,Funk/Soul
+140,Electronic,Rock
+141,Blues
+142,Rock,Funk/Soul,Pop
+143,Jazz,Rock,Funk/Soul,Blues
+144,HipHop
+145,Jazz,Rock
+146,Rock
+147,Rock
+148,Rock
+149,Rock,Latin,Funk/Soul
+150,Rock
+151,Rock
+152,Electronic,Rock,Pop
+153,HipHop
+154,Blues
+155,Rock
+156,HipHop,Rock,Funk/Soul
+157,Rock
+158,Rock
+159,Rock
+160,Rock
+161,Funk/Soul
+162,Electronic,Rock
+163,Funk/Soul,Pop
+164,Rock,Pop
+165,Funk/Soul
+166,Rock
+167,Rock
+168,Rock
+169,Reggae
+170,Rock
+171,Rock
+172,Rock
+173,Rock
+174,Rock
+175,Rock,Pop
+176,Rock
+177,Funk/Soul
+178,Funk/Soul
+179,Electronic,Pop
+180,Rock,Blues,Pop
+181,Reggae
+182,Rock,Pop
+183,Folk World & Country
+184,Electronic,Pop
+185,Rock
+186,Funk/Soul
+187,Electronic,Rock,Funk/Soul,Pop
+188,Rock,Pop
+189,Rock
+190,Rock,Funk/Soul,Folk World & Country
+191,Rock
+192,Rock,Folk World & Country
+193,Rock
+194,Rock
+195,Rock,Blues
+196,Rock
+197,Rock
+198,Blues
+199,Rock
+200,Rock
+201,Electronic,Rock
+202,Rock,Pop,Folk World & Country
+203,Funk/Soul,Pop
+204,Rock
+205,Rock,Blues
+206,Funk/Soul
+207,Rock,Latin
+208,Rock,Stage & Screen
+209,Rock
+210,Rock
+211,Rock
+212,Rock
+213,Rock
+214,Funk/Soul
+215,Rock
+216,Rock,Blues
+217,Funk/Soul,Blues
+218,Rock,Pop
+219,HipHop
+220,Funk/Soul
+221,Rock
+222,Funk/Soul,Blues
+223,Rock
+224,Rock,Pop
+225,Rock
+226,Rock
+227,Rock
+228,HipHop
+229,Rock
+230,Rock,Pop
+231,Rock
+232,Rock
+233,Rock
+234,Rock
+235,Folk World & Country
+236,Funk/Soul
+237,Rock
+238,Blues
+239,Electronic,Pop
+240,Rock
+241,Rock
+242,HipHop
+243,Rock
+244,HipHop
+245,Rock,Blues,Folk World & Country
+246,Electronic,Rock
+247,Rock
+248,Jazz
+249,Rock
+250,HipHop
+251,Electronic,Rock
+252,HipHop
+253,Rock
+254,Funk/Soul
+255,Rock
+256,Electronic
+257,Funk/Soul,Pop
+258,Rock
+259,Electronic,Funk/Soul,Pop
+260,Pop,Folk World & Country
+261,Rock
+262,Rock,Folk World & Country
+263,Rock
+264,Rock
+265,Jazz,Pop
+266,Rock
+267,Rock
+268,Rock
+269,Rock
+270,Rock
+271,Rock
+272,Rock
+273,Funk/Soul
+274,Funk/Soul
+275,HipHop
+276,Funk/Soul
+277,Electronic,HipHop,Pop
+278,Blues,Folk World & Country
+279,Rock
+280,Rock
+281,HipHop
+282,Blues
+283,Funk/Soul
+284,Electronic,Rock
+285,Funk/Soul
+286,Funk/Soul
+287,Rock
+288,Rock
+289,Rock
+290,Funk/Soul
+291,Rock
+292,Rock
+293,Rock
+294,Rock
+295,Folk World & Country
+296,Rock
+297,Electronic,Rock
+298,HipHop
+299,Rock
+300,Rock
+301,Folk World & Country
+302,HipHop
+303,Rock
+304,Rock
+305,Folk World & Country
+306,Electronic,HipHop,Funk/Soul,Pop
+307,Rock,Stage & Screen
+308,Jazz,Pop
+309,Rock
+310,Rock
+311,Rock,Funk/Soul,Blues,Pop,Folk World & Country
+312,Rock
+313,Rock
+314,HipHop
+315,Rock
+316,Rock
+317,Rock
+318,Funk/Soul
+319,Reggae
+320,Electronic,Rock
+321,Rock,Folk World & Country
+322,Rock,Pop
+323,Rock,Pop
+324,Rock,Funk/Soul
+325,Rock
+326,Electronic,Rock
+327,Rock
+328,Rock
+329,Funk/Soul
+330,Rock
+331,Rock,Stage & Screen
+332,Rock,Folk World & Country
+333,Rock
+334,Rock,Blues
+335,Rock
+336,Electronic,Rock
+337,Rock
+338,Rock
+339,Jazz,Pop,Folk World & Country
+340,Rock
+341,Electronic
+342,Electronic
+343,Rock
+344,Rock
+345,Rock,Funk/Soul
+346,HipHop
+347,Rock
+348,Rock,Blues
+349,HipHop
+350,Rock,Blues
+351,Rock
+352,Rock
+353,HipHop
+354,Jazz,Rock,Pop
+355,Rock
+356,Rock,Pop
+357,Rock
+358,Jazz
+359,Rock
+360,Rock
+361,HipHop,Funk/Soul
+362,Rock
+363,Electronic
+364,Rock
+365,HipHop,Rock
+366,Folk World & Country
+367,Electronic,Pop
+368,Rock
+369,Rock
+370,Rock
+371,Rock
+372,Rock,Pop
+373,Rock
+374,Rock
+375,Rock
+376,Electronic
+377,Blues
+378,Rock,Pop
+379,Electronic,HipHop,Funk/Soul
+380,Reggae
+381,Rock
+382,Rock
+383,Rock
+384,Rock
+385,Rock
+386,Jazz,Rock
+387,HipHop
+388,Funk/Soul,Folk World & Country
+389,Rock
+390,Rock
+391,Rock
+392,Rock
+393,Electronic,HipHop,Reggae,Pop
+394,Rock,Pop
+395,Electronic,Rock
+396,Rock
+397,Electronic,Reggae
+398,Rock
+399,Rock,Blues
+400,Electronic,Funk/Soul
+401,Rock
+402,HipHop
+403,Rock
+404,Funk/Soul
+405,Rock
+406,Rock
+407,Rock,Reggae
+408,Rock,Funk/Soul,Blues
+409,Rock
+410,Rock,Blues
+411,Rock
+412,Rock
+413,Rock
+414,Rock
+415,Rock
+416,Electronic,Rock
+417,Rock
+418,Rock
+419,Electronic
+420,Rock,Pop
+421,Rock,Pop
+422,Rock,Pop
+423,Electronic,Funk/Soul
+424,Rock
+425,Rock,Folk World & Country
+426,Rock
+427,Rock,Blues,Pop
+428,Rock
+429,Electronic
+430,Rock
+431,Rock
+432,Rock
+433,Rock
+434,Rock
+435,Rock
+436,Rock
+437,HipHop,Funk/Soul
+438,Rock
+439,Funk/Soul
+440,Rock,Folk World & Country
+441,Electronic,Rock
+442,Rock
+443,Rock
+444,Funk/Soul
+445,Rock
+446,Rock
+447,Jazz
+448,Rock,Pop
+449,Rock
+450,Rock
+451,Funk/Soul,Pop
+452,Folk World & Country
+453,HipHop
+454,Rock
+455,Rock,Latin
+456,Funk/Soul
+457,Rock
+458,Rock,Folk World & Country
+459,Rock,Funk/Soul
+460,Rock
+461,Electronic,Rock
+462,Rock
+463,Rock
+464,Rock
+465,Electronic,Rock
+466,Rock
+467,Rock
+468,Rock,Blues
+469,HipHop
+470,HipHop
+471,Rock
+472,Electronic,Rock,Funk/Soul,Blues,Pop
+473,Rock
+474,Rock,Reggae,Latin
+475,Rock
+476,HipHop
+477,Folk World & Country
+478,Folk World & Country
+479,Rock,Funk/Soul
+480,HipHop
+481,HipHop,Funk/Soul
+482,Rock,Folk World & Country
+483,Rock
+484,Rock
+485,Rock
+486,Funk/Soul
+487,Electronic,Rock
+488,Rock
+489,Rock
+490,Rock
+491,Funk/Soul,Blues
+492,Electronic,Pop
+493,Rock
+494,Electronic,Rock,Pop
+495,Rock
+496,Rock
+497,Rock
+498,Rock
+499,Blues
+500,HipHop
+Number,Subgenre
+1,Rock & Roll,Psychedelic Rock
+2,Pop Rock,Psychedelic Rock
+3,Psychedelic Rock,Pop Rock
+4,Folk Rock,Blues Rock
+5,Pop Rock
+6,Soul
+7,Blues Rock,Rock & Roll,Classic Rock
+8,Punk,New Wave
+9,Folk Rock,Rhythm & Blues
+10,Rock & Roll,Pop Rock,Psychedelic Rock,Experimental
+11,Rock & Roll
+12,Modal
+13,Garage Rock,Art Rock,Experimental
+14,Psychedelic Rock,Classic Rock,Pop Rock
+15,Blues Rock,Psychedelic Rock
+16,Folk Rock,Acoustic,Ballad
+17,Alternative Rock,Grunge
+18,Pop Rock
+19,Acoustic,Classic Rock,Free Improvisation
+20,
+21,Rock & Roll
+22,Delta Blues
+23,Pop Rock
+24,So1
+25,Rhythm & Blues,Soul
+26,Pop Rock
+27,Alternative Rock,Pop Rock
+28,Hard Rock,Mod,Prog Rock,Psychedelic Rock
+29,Blues Rock,Hard Rock
+30,Acoustic,Ballad,Folk
+31,Folk Rock,Folk
+32,Blues Rock,Hard Rock
+33,Rock & Roll,Punk
+34,Folk Rock,Acoustic,Blues Rock
+35,Classic Rock,Glam
+36,Folk Rock,Soft Rock
+37,Classic Rock
+38,Folk
+39,Beat,Rock & Roll
+40,Folk Rock,Psychedelic Rock
+41,Punk
+42,Psychedelic Rock
+43,Prog Rock
+44,Art Rock
+45,Soundtrack,Modern Classical,Contemporary,Score
+46,Reggae,Roots Reggae
+47,Free Jazz,Hard Bop,Modal
+48,Conscious
+49,Blues Rock
+50,Rock & Roll,Rhythm & Blues
+51,Folk Rock,Classic Rock
+52,Soul
+53,Beat,Rock & Roll
+54,Rhythm & Blues,Big Band,Soul,Soul-Jazz
+55,Electric Blues,Psychedelic Rock
+56,Rock & Roll,Rockabilly
+57,Soul,Disco
+58,Blues Rock,Southern Rock,Classic Rock
+60,Dialogue,Field Recording,Avantgarde,Electric Blues,Psychedelic Rock,Experimental
+61,Rhythm & Blues,Funk
+62,Hard Rock,Heavy Metal
+63,Pop Rock,Synth-pop,Alternative Rock,Arena Rock
+64,Classic Rock
+65,Doo Wop,Pop Rock,Ballad,Rhythm & Blues
+66,Folk Rock,Rhythm & Blues,Classic Rock,Contemporary Jazz
+67,Alternative Rock,IDM,Experimental
+68,Disco,Soul,Ballad
+69,Hard Rock,Classic Rock,Blues Rock
+70,Pop Rock
+71,Folk Rock,Pop Rock,African,Afrobeat,Zydeco,Funk,Rhythm & Blues
+72,Soundtrack,Soul
+73,Classic Rock
+74,Rock & Roll,Country Rock
+75,Soul,Funk,Disco
+76,Pop Rock,Funk,Soundtrack,Synth-pop
+77,Hard Rock
+78,Soul
+79,Blues Rock,Classic Rock,Hard Rock
+80,Pop Rock
+81,Punk
+82,Folk Rock,Country Rock,Classic Rock
+83,Psychedelic Rock,Electric Blues
+84,Soul
+85,Soul
+86,Pop Rock
+87,Alternative Rock,Prog Rock
+88,Country
+89,Pop Rock,Soul
+90,Soul,Funk
+91,Pop Rock,Classic Rock
+92,Rock & Roll
+93,Ska,Reggae-Pop
+94,Country
+95,Fusion
+96,Psychedelic Rock
+97,Folk
+98,New Wave
+99,Rhythm & Blues,Funk
+100,Psychedelic Rock
+101,Big Band,Ballad
+102,Blues Rock,Electric Blues
+103,Hard Bop
+104,Folk Rock,Acoustic,Soft Rock
+105,Country,Rhythm & Blues
+106,Rock & Roll,Punk
+107,Soul,Rhythm & Blues,Gospel,Cha-Cha
+108,Classic Rock,Glam
+109,Blues Rock,Pop Rock
+110,Art Rock,Classic Rock
+111,Alternative Rock
+112,Folk Rock,Pop Rock
+113,Soft Rock,Pop Rock
+114,Psychedelic Rock,Blues Rock
+115,Psychedelic Rock,Mod
+116,Blues Rock,Rock & Roll
+117,Blues Rock
+119,Rhythm & Blues,Soul
+120,Folk Rock,Country Rock
+121,Funk,Psychedelic,Disco
+122,Reggae,Roots Reggae,Rocksteady,Contemporary,Soundtrack
+124,Folk Rock,Psychedelic Rock
+125,Blues Rock
+126,Roots Reggae
+127,Folk Rock,Psychedelic Rock
+128,Garage Rock,Hard Rock,Punk
+129,New Wave,Art Rock,Funk
+130,New Wave,Punk
+131,Hard Rock,Heavy Metal
+132,Soundtrack,Disco
+134,Thug Rap
+135,Alternative Rock
+136,Classic Rock
+137,Indie Rock
+138,Gangsta
+139,Bayou Funk,Soul
+140,New Wave,Pop Rock,Punk,Disco
+141,Chicago Blues
+142,Pop Rock
+143,Soul-Jazz,Louisiana Blues,Fusion,Bayou Funk
+144,Gangsta
+145,Jazz-Rock,Classic Rock
+146,Folk Rock,Psychedelic Rock
+147,Classic Rock
+148,Classic Rock
+149,Afro-Cuban,Psychedelic Rock
+150,Pop Rock
+151,Indie Rock
+152,New Wave,Punk,Mod
+153,Conscious
+154,Chicago Blues
+155,Alternative Rock,New Wave
+156,Alternative Rock,Pop Rap,Psychedelic
+157,Post-Punk,New Wave
+158,Pop Rock,Classic Rock
+159,Hard Rock,Glam
+160,Glam,Classic Rock
+161,Rhythm & Blues,Soul
+162,Alternative Rock
+164,Soft Rock,Pop Rock
+165,Soul
+166,Alternative Rock,New Wave
+167,Thrash,Speed Metal
+168,New Wave,Pop Rock
+169,Reggae,Roots Reggae
+170,Classic Rock,Blues Rock,Hard Rock
+171,Psychedelic Rock,Folk Rock,Country Rock,Pop Rock
+172,Pop Rock
+173,Power Pop,Pop Rock,Prog Rock
+174,Folk Rock
+175,Pop Rock,Vocal
+176,Hard Rock,Classic Rock
+177,P.Funk
+178,Rhythm & Blues,Soul,Funk
+179,Europop,Synth-pop,Disco
+180,Pop Rock,Rhythm & Blues,Rock & Roll
+181,Reggae,Roots Reggae
+182,Folk Rock,Pop Rock
+183,Country
+184,Synth-pop
+185,Garage Rock,Punk
+186,Rhythm & Blues,Funk
+187,Art Rock,Pop Rock,Synth-pop,Funk
+188,Country Rock
+189,Acid Rock,Psychedelic Rock
+190,Country,Soul
+191,Garage Rock,Punk
+192,Country Rock
+193,Alternative Rock,Pop Punk,Punk
+194,Glam
+195,Blues Rock,Electric Blues,Harmonica Blues
+196,Garage Rock,Psychedelic Rock
+197,Alternative Rock
+198,Chicago Blues
+199,Indie Rock
+200,Hard Rock
+201,Industrial
+202,Folk Rock,Pop Rock
+203,Pop Rock,Ballad,Funk,Soul
+204,Blues Rock,Folk Rock
+205,Blues Rock,Psychedelic Rock,Classic Rock
+207,Fusion,Hard Rock,Psychedelic Rock
+208,Folk Rock,Pop Rock
+209,Grunge
+210,Folk Rock,Country Rock,Classic Rock
+211,Classic Rock,Prog Rock
+212,Alternative Rock,Indie Rock
+213,Classic Rock
+214,Rhythm & Blues,Bayou Funk,Soul
+215,Glam
+216,Rhythm & Blues,Rock & Roll
+217,Rhythm & Blues,Soul
+218,Indie Rock
+220,Bayou Funk,Soul,Funk
+221,Alternative Rock,Shoegaze
+222,Piano Blues
+223,Pop Rock
+224,Soft Rock,Ballad
+225,Pop Rock,Punk
+226,Acoustic
+227,Indie Rock
+229,Hard Rock,Blues Rock
+230,Blues Rock,Pop Rock
+231,Hard Rock,Pop Rock,Prog Rock
+232,Rock & Roll,Pop Rock
+233,Folk Rock,Garage Rock,Pop Rock
+234,Folk Rock,Classic Rock
+237,Mod
+239,Synth-pop
+240,Classic Rock
+241,Alternative Rock,Power Pop,Punk,Indie Rock
+243,Blues Rock,Heavy Metal
+244,Pop Rap,Hardcore Hip-Hop,Horrorcore
+245,Country Blues,Rock & Roll,Rhythm & Blues
+246,Musique Concrete,Avantgarde,Symphonic Rock,Rhythm & Blues,Psychedelic Rock,Experimental,Parody
+247,Folk Rock,Country Rock,Psychedelic Rock,Experimental
+248,Free Jazz
+249,Alternative Rock
+251,Art Rock,Ambient,Experimental
+253,Folk Rock,Pop Rock,Classic Rock
+254,Soul
+255,Heavy Metal
+256,Electro
+257,Synth-pop,Rhythm & Blues
+258,Psychedelic Rock,Pop Rock
+259,RnB/Swing,Downtempo
+260,Vocal
+261,Folk Rock
+262,Folk Rock,Classic Rock
+264,Folk Rock,Country Rock,Classic Rock
+265,Soul-Jazz,Big Band
+266,Blues Rock,Jazz-Rock,Classic Rock
+267,Hard Rock,Classic Rock,Mod
+268,Folk Rock,Pop Rock
+269,Noise
+270,Blues Rock,Rock & Roll,Classic Rock,Disco
+271,Pop Rock,Psychedelic Rock
+272,Indie Rock
+273,Soul
+274,Funk,Disco
+276,P.Funk,Funk
+277,RnB/Swing,Downtempo,Synth-pop
+278,Cajun,Country,Field Recording,Gospel,Delta Blues,Folk
+279,Glam
+280,Pop Rock
+281,RnB/Swing
+282,Delta Blues
+283,Soul,Disco
+284,New Wave,Pop Rock,Synth-pop
+285,Soul-Jazz,Soul
+286,Rhythm & Blues,Soul
+287,Punk,Rock & Roll
+288,Psychedelic Rock
+289,Pop Rock,Psychedelic Rock,Mod
+290,Rhythm & Blues,Soul
+291,New Wave
+292,Folk Rock,Country Rock,Classic Rock
+293,Avantgarde,Experimental
+294,Garage Rock,Hard Rock,Punk,Blues Rock
+295,Folk Rock,Folk,Ballad
+296,Alternative Rock,Indie Rock
+297,Modern Classical,Avantgarde,Psychedelic Rock,Experimental,Parody
+298,Pop Rap,Conscious,Contemporary R&B
+299,Alternative Rock,Emo
+300,Hard Rock,Heavy Metal
+301,Country
+302,Conscious
+303,Folk Rock,Country Rock
+304,Alternative Rock,Folk Rock
+305,Country,Folk
+306,Electro,Downtempo,Hip Hop,Disco,Afrobeat,Abstract
+307,Soundtrack,Beat,Pop Rock
+308,Vocal,Easy Listening
+309,Blues Rock,Rock & Roll,Classic Rock
+310,Alternative Rock,Funk Metal
+311,Country Blues,Rock & Roll,Rockabilly
+312,Alternative Rock
+313,Folk Rock,Acoustic,Grunge
+314,RnB/Swing,Conscious
+315,Soft Rock,Hard Rock,Pop Rock
+316,Garage Rock,Art Rock,Experimental
+317,Alternative Rock
+318,Soul
+319,Reggae
+320,Alternative Rock,Experimental
+321,Folk,Folk Rock,Acoustic
+323,Alternative Rock,New Wave,Pop Rock
+324,Classic Rock,Soul,Funk,Art Rock
+326,New Wave,Alternative Rock
+327,Lo-Fi,Indie Rock
+328,Alternative Rock,Indie Rock
+329,Soul,Funk
+330,Blues Rock,Folk Rock,Classic Rock
+331,Beat,Soundtrack,Pop Rock
+332,Folk Rock
+333,Rock & Roll,Punk
+335,Alternative Rock
+336,Alternative Rock,Art Rock
+337,Classic Rock,Prog Rock
+338,Folk Rock,Blues Rock,Psychedelic Rock
+339,Contemporary Jazz,Spoken Word
+340,Hardcore,Punk
+341,Breakbeat,Leftfield,Downtempo
+342,Synth-pop
+343,Pop Rock
+344,Hard Rock
+345,Funk,Indie Rock,New Wave
+347,Psychedelic Rock
+348,Blues Rock,Chicago Blues
+350,Blues Rock,Pop Rock
+351,Hard Rock,Arena Rock
+352,AOR,Classic Rock
+354,Pop Rock,Ballad,Latin Jazz
+355,Blues Rock,Psychedelic Rock
+356,Pop Rock,Vocal
+357,Blues Rock,Psychedelic Rock,Pop Rock
+358,Modal
+359,Pop Rock,Classic Rock
+360,Punk
+361,Gangsta,P.Funk,Crunk,Conscious
+362,Alternative Rock
+363,Synth-pop
+364,Blues Rock,Classic Rock
+365,Funk Metal
+366,Country,Gospel,Folk
+367,House,Techno,Downtempo,Vocal,Ambient
+368,Country Rock,Classic Rock
+369,Alternative Rock,Indie Rock
+370,Classic Rock
+371,Indie Rock
+372,New Wave,Pop Rock
+373,Psychedelic Rock,Folk Rock,Country Rock,Honky Tonk
+374,Art Rock,Pop Rock,Glam
+375,Pop Rock
+376,Breakbeat,IDM,Electro
+377,Country Blues,Electric Blues,Chicago Blues,Jump Blues
+378,Brit Pop
+379,RnB/Swing
+380,Reggae Gospel,Reggae,Roots Reggae,Rocksteady
+381,Pop Rock,Psychedelic Rock
+382,Art Rock,Indie Rock
+383,New Wave,Indie Rock
+384,Mod,Beat,Psychedelic Rock
+385,Folk Rock,Blues Rock
+386,Jazz-Rock,Pop Rock,Classic Rock
+387,Gangsta
+388,African
+389,Pop Rock
+390,Blues Rock,Garage Rock,Alternative Rock
+391,Soft Rock,Pop Rock
+392,Pop Rock
+393,Grime,Bollywood,Hip Hop,Dancehall
+394,Pop Rock,Vocal
+395,Leftfield,Alternative Rock,Electro,Disco
+396,Art Rock,Avantgarde,Glam
+397,Dub,Downtempo
+398,Pop Rock
+399,Blues Rock
+400,Soul,Disco
+401,Alternative Rock,Funk Metal
+403,Blues Rock,Hard Rock,Southern Rock
+404,Bayou Funk,Funk,Rhythm & Blues
+405,Power Pop
+406,Indie Rock
+407,Rock & Roll,Dub,Punk
+408,Blues Rock,Rhythm & Blues,Soul
+409,Psychedelic Rock
+410,Blues Rock
+411,Blues Rock
+412,Punk
+413,Alternative Rock,Hardcore,Punk
+414,Pop Rock
+415,Hard Rock
+416,Abstract,Art Rock
+417,New Wave,Pop Rock
+418,Pop Rock
+419,Trip Hop,Downtempo
+420,Rockabilly,Rock & Roll
+421,Pop Rock,Vocal
+422,Rock & Roll,Vocal
+423,Pop Rock,Soul,Disco
+424,Folk Rock,Classic Rock
+425,Country Rock,Honky Tonk
+426,Power Pop,Pop Rock,Arena Rock,Hard Rock
+427,Blues Rock,Pop Rock,Ballad
+428,Alternative Rock,New Wave,Punk
+429,Experimental,Ambient
+430,Indie Rock
+431,Indie Rock
+432,Art Rock,Glam
+433,Pop Rock
+434,Power Pop
+435,Grunge,Alternative Rock
+436,Alternative Rock,Post Rock
+437,RnB/Swing,Screw,Pop Rap,Thug Rap
+438,New Wave,Post-Punk
+439,Soul
+440,Folk Rock,Celtic,Punk
+441,New Wave,Experimental
+442,New Wave
+443,Power Pop,Pop Rock,Hard Rock
+444,Funk
+445,Pop Rock
+446,Garage Rock,Rock & Roll
+447,Bossa Nova,Latin Jazz
+448,New Wave,Pop Rock
+449,Lo-Fi,Indie Rock
+450,Pop Rock,Classic Rock
+451,Soul
+452,Country,Folk
+454,Classic Rock
+455,Blues Rock
+456,Soul
+457,Alternative Rock
+458,Soft Rock,Country Rock
+459,Rhythm & Blues,Soul
+460,Grunge
+461,Post-Punk,Dub,Avantgarde,Experimental
+463,New Wave,Indie Rock
+464,Hard Rock,Arena Rock
+465,Synth-pop,Indie Rock
+466,Alternative Rock,Pop Rock
+468,Blues Rock,Electric Blues,Chicago Blues,Modern Electric Blues,Harmonica Blues
+469,Pop Rap,Conscious
+471,Classic Rock,Folk Rock
+472,Downtempo,Soft Rock,Pop Rock,Synth-pop
+473,Indie Rock
+474,Folk Rock,Reggae,Reggae-Pop
+475,New Wave,Pop Rock
+477,Country
+478,Country
+479,P.Funk,Psychedelic Rock
+481,Soul,Funk,Neo Soul
+482,Country,Honky Tonk
+483,Post-Punk,New Wave
+484,Classic Rock,Glam
+485,Alternative Rock,Hard Rock
+486,Soul,Funk,Disco
+487,Pop Rock,Synth-pop
+488,Alternative Rock,Hardcore,Punk
+489,Hard Rock
+490,Blues Rock,Classic Rock
+491,Electric Blues,Rhythm & Blues,Soul
+492,New Wave,Synth-pop
+493,Alternative Rock
+494,Synth-pop,Indie Rock
+495,Blues Rock
+496,Pop Rock
+497,Indie Rock,Alternative Rock,Blues Rock,Garage Rock
+498,Indie Rock
+499,Electric Blues
+500,Reggae,Gangsta,Soul,Conscious

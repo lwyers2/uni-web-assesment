@@ -1,0 +1,140 @@
+body {
+	
+	box-sizing: border-box;
+	background-color: rgba(203, 255, 255, 0.185);
+	
+}
+
+
+.container{ 
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.my-info{
+    width:100%;
+    margin-top:50px;
+    margin-bottom:50px;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+    align-content: center;
+    
+    
+}
+
+
+
+.edit-details{
+    margin-top:10px;
+    border: solid 2px grey;
+    border-radius:2%;
+    background-color: white;
+}
+
+.edit-details h3{
+    text-align: center;
+    border-bottom: solid 2px grey;
+}
+
+.edit-details h3{
+    text-align: center;
+    border-bottom: solid 2px grey;
+}
+
+
+.my-albums{
+    width:100%;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+.my-albums button{
+border-bottom: solid 2px grey;
+}
+
+th{
+    
+    background-color: white;
+    color:black;
+}
+
+button {
+    color: white;
+    background-color: grey;
+    margin-left: 32%;
+
+}
+
+ a{
+     color:inherit;
+ }
+
+
+
+ .my-favourite-owned, .my-reviews-show{
+     
+     margin-top:50px;
+ }
+
+ .choice{
+    display:flex;
+    width:10%;
+    margin:0;
+    flex-basis: 50%;
+    justify-content: center;
+    align-content: center;
+}
+
+
+.album-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+
+
+.album-choice{
+    display:flex;
+    margin-right:170px;
+}
+
+
+
+.confirm{
+    text-align: center;
+    margin-top:50px;
+}
+
+#yes {
+margin-left:32%;
+}
+
+.yes-or-no{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+reviews{
+width:100%;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.card, .review-container{
+    width:80%;
+}
+
+#pending, #approved{
+    width:100%;
+}

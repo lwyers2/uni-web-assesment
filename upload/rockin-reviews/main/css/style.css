@@ -1,0 +1,161 @@
+body{
+    box-sizing: border-box;
+    background-color: rgba(203, 255, 255, 0.185);
+    
+}
+
+
+
+.container{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0;
+    margin-top: 50px;
+    padding: 0;
+    
+    
+}
+
+.title {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top:30px;
+   
+
+}
+
+
+
+
+
+
+.highest {
+    padding:25px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #07181d;
+    justify-content: space-evenly;
+    color:white;
+
+}
+
+
+
+.number1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+   
+}
+
+.number1img {
+    
+    width:250px;
+    height:250px;
+    
+}
+
+
+.best {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+
+.best-x {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    width:200px;
+    gap: 20px;
+    margin:25px;
+}
+
+
+
+.thumb {
+    
+    
+    height:100px;
+    width: 100px;
+    flex:1;
+    background-size: 100%;
+    
+}
+
+.thumbdesc {
+
+    text-align: center;
+    flex:1;
+    height:100px;
+    width:100px;
+}
+
+
+
+
+.trending {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #07181d;
+    background-size: cover;
+    
+}
+
+#trending-title {
+    text-align: center;
+    background-color: rgba(203, 255, 255, 0.185);
+    
+    flex-basis:100%;
+}
+
+
+.trending-album {
+    
+    height:200px;
+    width:200px;
+    gap: 25px;
+    border : solid black 3px;
+    margin: 25px;
+    background-size: 100%;
+    
+}
+
+.signup{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+
+.signup-form{
+    padding:25px;
+    background-color: #83969c27;
+    border:solid 10px  #83969c;
+    border-radius: 5%;
+    width:300px;
+   
+
+}
+
+.signup-form form{
+
+   display:flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   gap:5px;
+}
+
